@@ -1,4 +1,4 @@
-# FM GM SoundFont v0.1
+# FM/GM Open SoundFont
 
 A compact, experimental **General MIDI compatible SoundFont 2 (`.sf2`)** built from deterministic **FM synthesis** samples.
 
