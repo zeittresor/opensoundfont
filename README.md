@@ -6,7 +6,6 @@ The goal is not to imitate a large acoustic sample library. The goal is a comple
 
 **Official repository / updates:** <https://github.com/zeittresor/opensoundfont>
 
-> Status: v0.1 / first usable test build.  
 > Format: SoundFont 2 (`.sf2`).  
 > License: GNU GPLv3, see [License](#license).
 > Repository: https://github.com/zeittresor/opensoundfont.
