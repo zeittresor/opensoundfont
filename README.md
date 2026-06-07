@@ -4,8 +4,6 @@ A compact, experimental **General MIDI compatible SoundFont 2 (`.sf2`)** built f
 
 The goal is not to imitate a large acoustic sample library. The goal is a complete GM-mapped SoundFont with a clear FM/digital character that can be used for MIDI playback, retro game music, demos, experiments, and further sound-design work.
 
-**Official repository / updates:** <https://github.com/zeittresor/opensoundfont>
-
 > Format: SoundFont 2 (`.sf2`).  
 > License: GNU GPLv3, see [License](#license).
 > Repository: https://github.com/zeittresor/opensoundfont.
