@@ -26,6 +26,16 @@ Official source and update location:
 https://github.com/zeittresor/opensoundfont
 ```
 
+## Included editions
+
+| File | Purpose | Size | Preset aliases |
+|---|---|---:|---:|
+| `FM_GM_SoundFont_v0_2_1_Compat.sf2` | Compact compatibility build, closest to v0.2 | 14.34 MB | 5760 |
+| `FM_GM_SoundFont_v0_4_1_Balanced_Compat.sf2` | Balanced quality/size build, below 25 MB | 23.59 MB | 5760 |
+
+Both editions use the same compatibility strategy: the actual sample data remains GM-oriented, but additional preset-header aliases are included so MIDI files using common GS, XG or GM2 Bank Select messages still resolve to a valid instrument in FluidSynth/VLC.
+
+
 Typical checkout:
 
 ```bash
