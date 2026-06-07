@@ -18,7 +18,6 @@ The goal is not to imitate a large acoustic sample library. The goal is a comple
 - `FM_GM_SoundFont_v0_1_GM_Map.txt` — plain-text GM map
 - `README.md` — this GitHub README
 - `LICENSE` — GNU GPLv3 license text
-- `build_fm_gm_sf2.py` — optional builder script, if included in the repository
 
 
 ## Repository
