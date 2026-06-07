@@ -1,0 +1,180 @@
+OpenSoundFont FM GM compatibility map
+
+Melodic aliases: selected common GM/GS/XG/GM2 banks; programs 0-127 map to the GM instruments below.
+Program 000: Acoustic Grand Piano
+Program 001: Bright Acoustic Piano
+Program 002: Electric Grand Piano
+Program 003: Honky-tonk Piano
+Program 004: Electric Piano 1
+Program 005: Electric Piano 2
+Program 006: Harpsichord
+Program 007: Clavinet
+Program 008: Celesta
+Program 009: Glockenspiel
+Program 010: Music Box
+Program 011: Vibraphone
+Program 012: Marimba
+Program 013: Xylophone
+Program 014: Tubular Bells
+Program 015: Dulcimer
+Program 016: Drawbar Organ
+Program 017: Percussive Organ
+Program 018: Rock Organ
+Program 019: Church Organ
+Program 020: Reed Organ
+Program 021: Accordion
+Program 022: Harmonica
+Program 023: Tango Accordion
+Program 024: Acoustic Guitar (nylon)
+Program 025: Acoustic Guitar (steel)
+Program 026: Electric Guitar (jazz)
+Program 027: Electric Guitar (clean)
+Program 028: Electric Guitar (muted)
+Program 029: Overdriven Guitar
+Program 030: Distortion Guitar
+Program 031: Guitar Harmonics
+Program 032: Acoustic Bass
+Program 033: Electric Bass (finger)
+Program 034: Electric Bass (pick)
+Program 035: Fretless Bass
+Program 036: Slap Bass 1
+Program 037: Slap Bass 2
+Program 038: Synth Bass 1
+Program 039: Synth Bass 2
+Program 040: Violin
+Program 041: Viola
+Program 042: Cello
+Program 043: Contrabass
+Program 044: Tremolo Strings
+Program 045: Pizzicato Strings
+Program 046: Orchestral Harp
+Program 047: Timpani
+Program 048: String Ensemble 1
+Program 049: String Ensemble 2
+Program 050: SynthStrings 1
+Program 051: SynthStrings 2
+Program 052: Choir Aahs
+Program 053: Voice Oohs
+Program 054: Synth Voice
+Program 055: Orchestra Hit
+Program 056: Trumpet
+Program 057: Trombone
+Program 058: Tuba
+Program 059: Muted Trumpet
+Program 060: French Horn
+Program 061: Brass Section
+Program 062: SynthBrass 1
+Program 063: SynthBrass 2
+Program 064: Soprano Sax
+Program 065: Alto Sax
+Program 066: Tenor Sax
+Program 067: Baritone Sax
+Program 068: Oboe
+Program 069: English Horn
+Program 070: Bassoon
+Program 071: Clarinet
+Program 072: Piccolo
+Program 073: Flute
+Program 074: Recorder
+Program 075: Pan Flute
+Program 076: Blown Bottle
+Program 077: Shakuhachi
+Program 078: Whistle
+Program 079: Ocarina
+Program 080: Lead 1 (square)
+Program 081: Lead 2 (sawtooth)
+Program 082: Lead 3 (calliope)
+Program 083: Lead 4 (chiff)
+Program 084: Lead 5 (charang)
+Program 085: Lead 6 (voice)
+Program 086: Lead 7 (fifths)
+Program 087: Lead 8 (bass+lead)
+Program 088: Pad 1 (new age)
+Program 089: Pad 2 (warm)
+Program 090: Pad 3 (polysynth)
+Program 091: Pad 4 (choir)
+Program 092: Pad 5 (bowed)
+Program 093: Pad 6 (metallic)
+Program 094: Pad 7 (halo)
+Program 095: Pad 8 (sweep)
+Program 096: FX 1 (rain)
+Program 097: FX 2 (soundtrack)
+Program 098: FX 3 (crystal)
+Program 099: FX 4 (atmosphere)
+Program 100: FX 5 (brightness)
+Program 101: FX 6 (goblins)
+Program 102: FX 7 (echoes)
+Program 103: FX 8 (sci-fi)
+Program 104: Sitar
+Program 105: Banjo
+Program 106: Shamisen
+Program 107: Koto
+Program 108: Kalimba
+Program 109: Bag pipe
+Program 110: Fiddle
+Program 111: Shanai
+Program 112: Tinkle Bell
+Program 113: Agogo
+Program 114: Steel Drums
+Program 115: Woodblock
+Program 116: Taiko Drum
+Program 117: Melodic Tom
+Program 118: Synth Drum
+Program 119: Reverse Cymbal
+Program 120: Guitar Fret Noise
+Program 121: Breath Noise
+Program 122: Seashore
+Program 123: Bird Tweet
+Program 124: Telephone Ring
+Program 125: Helicopter
+Program 126: Applause
+Program 127: Gunshot
+
+Drum aliases: banks 128, 16128, 16256; programs 0-127 map to the GM Standard Drum Kit below.
+Note 035: Acoustic Bass Drum
+Note 036: Bass Drum 1
+Note 037: Side Stick
+Note 038: Acoustic Snare
+Note 039: Hand Clap
+Note 040: Electric Snare
+Note 041: Low Floor Tom
+Note 042: Closed Hi-Hat
+Note 043: High Floor Tom
+Note 044: Pedal Hi-Hat
+Note 045: Low Tom
+Note 046: Open Hi-Hat
+Note 047: Low-Mid Tom
+Note 048: Hi-Mid Tom
+Note 049: Crash Cymbal 1
+Note 050: High Tom
+Note 051: Ride Cymbal 1
+Note 052: Chinese Cymbal
+Note 053: Ride Bell
+Note 054: Tambourine
+Note 055: Splash Cymbal
+Note 056: Cowbell
+Note 057: Crash Cymbal 2
+Note 058: Vibraslap
+Note 059: Ride Cymbal 2
+Note 060: Hi Bongo
+Note 061: Low Bongo
+Note 062: Mute Hi Conga
+Note 063: Open Hi Conga
+Note 064: Low Conga
+Note 065: High Timbale
+Note 066: Low Timbale
+Note 067: High Agogo
+Note 068: Low Agogo
+Note 069: Cabasa
+Note 070: Maracas
+Note 071: Short Whistle
+Note 072: Long Whistle
+Note 073: Short Guiro
+Note 074: Long Guiro
+Note 075: Claves
+Note 076: Hi Wood Block
+Note 077: Low Wood Block
+Note 078: Mute Cuica
+Note 079: Open Cuica
+Note 080: Mute Triangle
+Note 081: Open Triangle
