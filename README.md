@@ -13,8 +13,8 @@ The goal is not to imitate a large acoustic sample library. The goal is a comple
 
 ## Contents
 
-- `FM_GM_SoundFont_v0_1.sf2` — the SoundFont file
-- `FM_GM_SoundFont_v0_4_HQ.sf2` — extended SoundFont file HQ
+- `FM_GM_SoundFont_v0_2_1_mini.sf2` — the SoundFont file (~ 14mb)
+- `FM_GM_SoundFont_v0_4_1_Balanced.sf2` — extended SoundFont file HQ (~ 23mb)
 - `FM_GM_SoundFont_v0_1_demo.mid` — tiny smoke-test MIDI file
 - `FM_GM_SoundFont_v0_1_GM_Map.txt` — plain-text GM map
 - `README.md` — this GitHub README
